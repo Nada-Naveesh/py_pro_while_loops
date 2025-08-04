@@ -1,0 +1,7 @@
+n=int(input())
+count=0
+sn=0
+while count < n:
+     count=count+1 
+     sn=sn+count
+print(sn) 
