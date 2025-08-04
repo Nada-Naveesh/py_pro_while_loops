@@ -1,0 +1,6 @@
+n=int(input())
+count=0
+while count < n:
+    number=int(input())
+    print(number)
+    count=count+1
