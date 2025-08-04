@@ -1,0 +1,8 @@
+n=int(input())
+sm=0
+count=0
+while count <= n:
+    sm=sm+count
+    count=count+1 
+avg=sm / n 
+print(avg)
