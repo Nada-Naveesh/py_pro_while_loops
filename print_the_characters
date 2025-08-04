@@ -1,0 +1,7 @@
+s=input()
+lll=len(s)
+count=0 
+while count < lll:
+    char=s[count]
+    print(char)
+    count+=1
