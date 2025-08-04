@@ -1,0 +1,10 @@
+n=int(input())
+count=1 
+while count <= n:
+   if count == n:
+       row="+ " * count
+       print(row)
+   else:
+        row="* " * count 
+        print(row)
+   count+=1  
