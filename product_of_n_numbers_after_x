@@ -1,0 +1,9 @@
+x=int(input())
+n=int(input())
+product=1 
+i=x+1 
+end=x+n 
+while i <= end: 
+    product*=i 
+    i+=1 
+print(product) 
