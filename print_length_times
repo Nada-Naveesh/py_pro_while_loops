@@ -1,0 +1,6 @@
+n=input()
+ll=len(n)
+count=1 
+while count <= ll:
+    print(1*n[0])
+    count+=1
